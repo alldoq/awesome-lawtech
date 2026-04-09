@@ -20,6 +20,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 
   - [Transaction management](#transaction-management)
   - [Document automation and templates](#Document-automation-and-templates)
+  - [Evidence management](#Evidence-management)
   - [Redaction and privacy](#Redaction-and-privacy)
   - [Analysis and extraction](#Analysis-and-extraction)
   - [Data sets and models](#Data-sets-and-models)
@@ -36,6 +37,10 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 
 - :star: [Docassemble](https://docassemble.org) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
 - :star: [Legal Markdown](https://github.com/compleatang/legal-markdown) - Templates based on YAML and Markdown.
+
+### Evidence management
+
+- [ALLDOQ](https://alldoq.com) - Evidence management system for expert witnesses and lawyers. Organise, review, and reference case documents and exhibits in one place.
 
 ### Redaction and privacy
 
