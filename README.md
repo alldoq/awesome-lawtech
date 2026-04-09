@@ -20,6 +20,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 
   - [Transaction management](#transaction-management)
   - [Document automation and templates](#Document-automation-and-templates)
+  - [Redaction and privacy](#Redaction-and-privacy)
   - [Analysis and extraction](#Analysis-and-extraction)
   - [Data sets and models](#Data-sets-and-models)
 
@@ -35,6 +36,10 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 
 - :star: [Docassemble](https://docassemble.org) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
 - :star: [Legal Markdown](https://github.com/compleatang/legal-markdown) - Templates based on YAML and Markdown.
+
+### Redaction and privacy
+
+- [DesktopRedact](https://desktopredact.com) - Local-first desktop app for UK legal professionals. Automatically detects PII (names, emails, phone numbers, addresses) in PDF and Word documents and burns redactions permanently into the exported PDF. Runs 100% offline — no cloud upload, no account, no telemetry.
 
 ### Analysis and extraction
 
