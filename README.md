@@ -32,6 +32,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 ### Transaction management
 
 - :heart: [Office & Dragons](https://www.officeanddragons.com) - Automagically edits documents at scale.
+- [Beamprobe](https://beamprobe.com) - UK virtual data room for M&A diligence and transactional document sharing. NDA gate with signed-PDF audit trail (SHA-256 tamper digest, 6-year retention), per-recipient tracking, AES-256 encryption, EU-jurisdiction storage. Self-serve from £19/month.
 
 ### Document automation and templates
 
